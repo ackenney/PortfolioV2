@@ -30,10 +30,10 @@ export default {
         tight: "-0.25px",
       },
       colors: {
-        primary: "#0784b5",
+        primary: "#2563EB",
         neutral: "#94A3B8",
         white: "#E2E8F0",
-        black: "#141619",
+        black: "#0E141B",
       },
     },
   },
