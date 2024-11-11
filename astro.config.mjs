@@ -13,7 +13,7 @@ const BASE_URL = "https://ackenney.github.io";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://ackenney.github.io',
+  site: 'ackenney.com',
   base: 'PortfolioV2',
   integrations: [tailwind()],
 });
